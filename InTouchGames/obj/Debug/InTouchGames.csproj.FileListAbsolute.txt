@@ -1,0 +1,7 @@
+C:\Users\Dudge\Documents\InTouchGames\InTouchGames\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Dudge\Documents\InTouchGames\InTouchGames\bin\TypeScriptHTMLApp1.dll
+C:\Users\Dudge\Documents\InTouchGames\InTouchGames\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Dudge\Documents\InTouchGames\InTouchGames\obj\Debug\InTouchGames.csproj.CoreCompileInputs.cache
+C:\Users\Dudge\Documents\InTouchGames\InTouchGames\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Dudge\Documents\InTouchGames\InTouchGames\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Dudge\Documents\InTouchGames\InTouchGames\obj\Debug\InTouchGames.csprojAssemblyReference.cache
